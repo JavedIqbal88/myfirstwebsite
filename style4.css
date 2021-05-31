@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(Images/background-6.jpg);
+}
+#Header{
+    display: flex;
+    flex-direction: row;
+    height: 110px;
+    font-style: italic;
+    font-size: 25px;
+    width: 100%;
+    margin-bottom:-18px;
+}
+#H1{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#Header h2{
+    margin-left: 350px;
+    margin-top: 5px;
+    font-style: normal;
+    font-size: 25px;
+}
+h2 p{
+    margin-left: -180px;
+}
+#H2 h1{
+    margin-left: -20px;
+    font-size: 50px;
+    margin-top: 0px;
+    height: 93px;
+    width: 225px;
+    padding: 28px;
+}
+#navbar1{
+    height: 40px;
+    margin-left: 1100px;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+li a{
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    display: block;
+    border: solid black;
+    color: brown;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    margin-left: 10px;
+}
+li a:hover{
+    background-color: darkgoldenrod;
+}
+#container{
+    height: 700px;
+    width: 100%;
+    margin-top: 15px;
+}
+#container h2{
+    text-align: center;
+}   
+#div1{
+    height:600px;
+    width: 450px;
+    float: left;
+    border: solid black;
+    margin-left: 100px;
+}
+#div1 h2{
+    text-align: center;
+    margin-top: 25px;
+    color: blue;
+    margin-top: 50px;
+}
+#div1 h3{
+    text-align: center;
+}
+#div1 p{
+    text-align: center;
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 20px;
+    color: crimson;
+}
+#div2{
+    height: 600px;
+    width: 450px;
+    float: left;
+    border: solid black;
+    margin-left: 25px;
+}
+
+#div2 h2{
+    text-align: center;
+    margin-top: 25px;
+    color: blue;
+    margin-top: 50px;
+}
+#div2 h3{
+    text-align: center;
+}
+#div2 p{
+    text-align: center;
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 20px;
+    color: crimson;
+}
+#div3{
+    height: 600px;
+    width: 450px;
+    float: left;
+    border: solid black;
+    margin-left: 25px;
+}
+#div3 h2{
+    text-align: center;
+    margin-top: 25px;
+    color: blue;
+    margin-top: 50px;
+}
+#div3 h3{
+    text-align: center;
+}
+#div3 p{
+    text-align: center;
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 20px;
+    color: crimson; 
+}
+#footer{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 0px;
+    padding-top: 20px;
+}
